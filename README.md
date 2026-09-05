@@ -12,9 +12,6 @@
   <a href="https://naveenkumar64.netlify.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" />
   </a>
-  <a href="mailto:naveenaman64@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
-  </a>
 </p>
 
 ---
