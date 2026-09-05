@@ -1,32 +1,45 @@
-<h1 align="center">Hi, I'm Naveen Kumar 👋</h1>
-<h3 align="center">Computer Science @ Georgia Tech (Intelligence & Systems Architecture) | Software Engineer Co-Op @ Itential</h3>
+<h1 align="center">Naveen Kumar</h1>
+<h3 align="center">Software Engineer Co-Op @ Itential &nbsp;|&nbsp; B.S. Computer Science, Georgia Institute of Technology</h3>
 
 <p align="center">
-  Building full-stack, AI-assisted software — currently shipping workflow analytics tools by day and clinical-tech side projects by night.
+  Full-stack software engineer focused on event-driven systems, data-intensive platforms, and applied AI — currently building workflow analytics infrastructure at Itential.
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/iamnaveenkumar64" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://naveenkumar64.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:naveenaman64@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-### 🚀 What I'm working on
+### About Me
 
-- 🏢 **Software Engineer Co-Op @ [Itential](https://www.itential.com/)** — building features for *Insights*, a workflow analytics platform delivering ROI and performance metrics for network orchestration customers. Working across a full-stack, event-driven architecture: React, Node/NestJS microservices, AWS Lambda pipelines, and InfluxDB time-series storage.
-- 🩺 **AI-Assisted Clinical Workflow Platform** — a HIPAA-compliant platform built from scratch (Next.js 14, FastAPI, PostgreSQL, AWS S3, Azure OpenAI) with role-based access control, MFA, and audit logging.
-- 🧠 **TBI Clinic Platform** — a production web platform (Next.js on Vercel, FastAPI backend, PostgreSQL on Railway) with fully responsive design and hardened authentication.
-- 🤖 **Discord → Binance Trading Bot** — a three-stage automated trading pipeline (signal listener, parser, and order execution layer) in Python.
-- 🎓 Former **Undergraduate TA for CS 1331 (Intro to OOP)** at Georgia Tech, supporting 50+ students in Java/OOP fundamentals.
+I'm a rising sophomore at Georgia Tech studying Computer Science, with threads in Intelligence and Systems Architecture. I currently work as a Software Engineer Co-Op on Itential's Cloud Services team, where I build features for *Insights*, a workflow analytics platform used by network orchestration customers, across a React front end, Node/NestJS microservices, and an event-driven AWS Lambda/InfluxDB pipeline.
+
+Outside of my co-op, I've contributed to a Georgia Tech hackathon project applying quantitative risk modeling to student health insurance, served as an Undergraduate TA for CS 1331 (Intro to Object-Oriented Programming), and completed Harvard's CS50 Web Programming course. I also serve as Senior Finance Executive for the Pakistani Student Association at Georgia Tech. I'm especially interested in systems that sit at the intersection of full-stack engineering, data pipelines, and AI-assisted decision-making.
 
 ---
 
-### 🛠️ Languages & Tools
+### Experience & Projects
+
+- **Software Engineer Co-Op — [Itential](https://www.itential.com/)** — Building features for *Insights*, a workflow analytics platform delivering ROI and performance metrics for network orchestration customers, across a full-stack, event-driven architecture (React, Node/NestJS microservices, AWS Lambda, InfluxDB).
+- **UniVital — Healthcare Financial Risk Engine** — Collaborator on a Georgia Tech hackathon project quantifying financial risk across student health insurance plans via Monte Carlo simulation over a Databricks Bronze/Silver/Gold lakehouse, with a RAG-based plan comparison assistant.
+- **CS50 Web Programming Capstone** — Six full-stack web applications built with Python (Django), JavaScript, HTML/CSS, and SQL as part of Harvard's CS50 course.
+- **Undergraduate Teaching Assistant, CS 1331 (Intro to OOP)** — Georgia Tech — Led office hours and recitations for 50+ students on core Java/OOP concepts; graded and proctored exams across 14 submission cycles.
+- **Senior Finance Executive — Pakistani Student Association, Georgia Tech** — Manages financial planning and budgeting for the organization's programs and events.
+
+---
+
+### Technical Skills
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -50,26 +63,26 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Repositories
 
-| Project | Description | Stack |
-|---|---|---|
-| **AI-Assisted Clinical Workflow Platform** | HIPAA-compliant platform with RBAC, MFA, and audit logging | Next.js 14, FastAPI, PostgreSQL, AWS S3, Azure OpenAI |
-| **TBI Clinic Platform** | Responsive clinic web platform with hardened auth | Next.js, FastAPI, PostgreSQL, Vercel, Railway |
-| **Discord → Binance Trading Bot** | Automated signal-to-trade execution pipeline | Python, Discord API, Binance API |
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| **UniVital** | Healthcare financial risk engine for students — Monte Carlo risk modeling over a Databricks lakehouse, plus a RAG plan-comparison assistant (collaborator) | React, FastAPI, Databricks, Gemini, Actian VectorAI | [Repo](https://github.com/princymaheshwari/Univital) |
+| **CS50 Web Programming Capstone** | Six full-stack web apps from Harvard's CS50 (separate branches per project) | Python, Django, JavaScript, SQL | [Repo](https://github.com/me50/NaveenKumar1564/tree/web50/projects/2020/x/capstone) |
 
-> Pin these repos on your GitHub profile (top right of each repo → **Pin**) so they show up right under this README.
 
 ---
 
-### 🎓 Certifications
+### Certifications
 
 - Anthropic — Introduction to MCP
+- Anthropic — AI Fluency: Framework & Foundations
 - DeepLearning.AI — Supervised Machine Learning: Regression & Classification
 - IBM — Python for Data Science, AI & Development
+- edX — CS50's Web Programming with Python and JavaScript (Verified Certificate)
 
 ---
 
-### 📫 Reach me
+### Contact
 
 **Email:** naveenaman64@gmail.com &nbsp;|&nbsp; **LinkedIn:** [iamnaveenkumar64](https://linkedin.com/in/iamnaveenkumar64) &nbsp;|&nbsp; **Portfolio:** [naveenkumar64.netlify.app](https://naveenkumar64.netlify.app/)
