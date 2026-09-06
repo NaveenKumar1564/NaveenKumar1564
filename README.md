@@ -1,88 +1,88 @@
-<h1 align="center">Naveen Kumar</h1>
-<h3 align="center">Software Engineer Co-Op @ Itential &nbsp;|&nbsp; B.S. Computer Science, Georgia Institute of Technology</h3>
+<h1 align="center">Hi, I'm Naveen Kumar</h1>
+
+<h3 align="center">Software Engineer Co-Op @ Itential | Computer Science @ Georgia Tech</h3>
 
 <p align="center">
-  Full-stack software engineer focused on event-driven systems, data-intensive platforms, and applied AI — currently building workflow analytics infrastructure at Itential.
+  I build full-stack applications, event-driven systems, data platforms, and applied AI tools.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/iamnaveenkumar64" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/iamnaveenkumar64">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://naveenkumar64.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://naveenkumar64.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal portfolio" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:naveenaman64@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:naveenaman64@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Naveen" />
   </a>
 </p>
 
 ---
 
-### About Me
+## About Me
 
-I'm a rising sophomore at Georgia Tech studying Computer Science, with threads in Intelligence and Systems Architecture. I currently work as a Software Engineer Co-Op on Itential's Cloud Services team, where I build features for *Insights*, a workflow analytics platform used by network orchestration customers, across a React front end, Node/NestJS microservices, and an event-driven AWS Lambda/InfluxDB pipeline.
+I'm a rising sophomore at Georgia Tech studying Computer Science, with threads in Intelligence and Systems Architecture. I currently work as a Software Engineer Co-Op on Itential's Cloud Services team, where I build features for Insights, a workflow analytics platform used by network orchestration customers, across a React front end, Node/NestJS microservices, and an event-driven AWS Lambda/InfluxDB pipeline.
 
 Outside of my co-op, I've contributed to a Georgia Tech hackathon project applying quantitative risk modeling to student health insurance, served as an Undergraduate TA for CS 1331 (Intro to Object-Oriented Programming), and completed Harvard's CS50 Web Programming course. I also serve as Senior Finance Executive for the Pakistani Student Association at Georgia Tech. I'm especially interested in systems that sit at the intersection of full-stack engineering, data pipelines, and AI-assisted decision-making.
 
 ---
 
-### Experience & Projects
+## Experience
 
-- **Software Engineer Co-Op — [Itential](https://www.itential.com/)** — Building features for *Insights*, a workflow analytics platform delivering ROI and performance metrics for network orchestration customers, across a full-stack, event-driven architecture (React, Node/NestJS microservices, AWS Lambda, InfluxDB).
-- **UniVital — Healthcare Financial Risk Engine** — Collaborator on a Georgia Tech hackathon project quantifying financial risk across student health insurance plans via Monte Carlo simulation over a Databricks Bronze/Silver/Gold lakehouse, with a RAG-based plan comparison assistant.
-- **CS50 Web Programming Capstone** — Six full-stack web applications built with Python (Django), JavaScript, HTML/CSS, and SQL as part of Harvard's CS50 course.
-- **Undergraduate Teaching Assistant, CS 1331 (Intro to OOP)** — Georgia Tech — Led office hours and recitations for 50+ students on core Java/OOP concepts; graded and proctored exams across 14 submission cycles.
-- **Senior Finance Executive — Pakistani Student Association, Georgia Tech** — Manages financial planning and budgeting for the organization's programs and events.
+### Software Engineer Co-Op at [Itential](https://www.itential.com/)
 
----
+- Build features for *Insights*, a workflow analytics platform that delivers ROI and performance metrics for network orchestration customers
+- Contribute across a React front end, Node.js/NestJS microservices, AWS Lambda functions, and InfluxDB data pipelines
+- Work within a full-stack, event-driven cloud architecture on Itential's Cloud Services team
 
-### Technical Skills
+### Undergraduate Teaching Assistant at Georgia Techn
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="40" height="40"/></a>
-</p>
+- Supported CS 1331, an introductory course in Java and object-oriented programming
+- Led office hours and recitations for more than 50 students
+- Graded coursework and proctored examinations across 14 submission cycles
+
+### Senior Finance Executive for Pakistani Student Association at Georgia Tech
+
+- Support financial planning and budgeting for student programs and events
 
 ---
 
-### Featured Repositories
+## Featured Projects
 
-| Project | Description | Stack | Link |
-|---|---|---|---|
-| **UniVital** | Healthcare financial risk engine for students — Monte Carlo risk modeling over a Databricks lakehouse, plus a RAG plan-comparison assistant (collaborator) | React, FastAPI, Databricks, Gemini, Actian VectorAI | [Repo](https://github.com/princymaheshwari/Univital) |
-| **CS50 Web Programming Capstone** | Six full-stack web apps from Harvard's CS50 (separate branches per project) | Python, Django, JavaScript, SQL | [Repo](https://github.com/me50/NaveenKumar1564/tree/web50/projects/2020/x/capstone) |
-
-
----
-
-### Certifications
-
-- Anthropic — Introduction to MCP
-- Anthropic — AI Fluency: Framework & Foundations
-- DeepLearning.AI — Supervised Machine Learning: Regression & Classification
-- IBM — Python for Data Science, AI & Development
-- edX — CS50's Web Programming with Python and JavaScript (Verified Certificate)
+| Project | Description | Technologies | Repository |
+| --- | --- | --- | --- |
+| **UniVital** | Healthcare financial risk engine that compares student insurance plans using Monte Carlo simulation, a Databricks lakehouse, and a RAG-based assistant | React, FastAPI, Databricks, Gemini, Actian VectorAI | [View repository](https://github.com/princymaheshwari/Univital) |
+| **Musicly** | Spotify- and SoundCloud-inspired streaming application with song uploads, albums, and real-time likes | Python, Django, JavaScript | [Youtube Video](https://youtu.be/hxMIiFmGWnk?si=JlswTYevE0q7sWB_) |
+| **Network** | Social-network application with posts, follows, likes, profile pages, and pagination | Python, Django, JavaScript | [Youtube Video](https://youtu.be/8dzv-YM7jdY?si=n5xChfCKsWjVq37v) |
+| **Commerce** | Auction platform with listings, bidding, watchlists, comments, and categories | Python, Django, JavaScript | [Youtube Video](https://youtu.be/SwWU2NtvYto?si=f3OU5oAYbndDL4oO) |
+| **Mail** | Single-page email client backed by a Django REST API | JavaScript, Django | [Youtube Video](https://youtu.be/fqr534GDVG4?si=9GKXeE9cveiz090N) |
+| **Wiki** | Encyclopedia application with Markdown-authored entries, search, and editing | Python, Django | [Youtube Video](https://youtu.be/XvyZYLplNw4?si=U3l-MVDuHguQZYGo) |
+| **Search** | Front-end recreation of Google Search, Image Search, and Advanced Search | HTML, CSS |  |
 
 ---
 
-### Contact
+## Technical Skills
 
-**Email:** naveenaman64@gmail.com &nbsp;|&nbsp; **LinkedIn:** [iamnaveenkumar64](https://linkedin.com/in/iamnaveenkumar64) &nbsp;|&nbsp; **Portfolio:** [naveenkumar64.netlify.app](https://naveenkumar64.netlify.app/)
+- **Languages:** Python, Java, C, JavaScript, SQL, HTML, CSS
+- **Frameworks and libraries:** React, Next.js, Node.js, NestJS, Django, FastAPI, NumPy, scikit-learn
+- **Cloud and data:** AWS Lambda, Databricks, InfluxDB, PostgreSQL, MySQL
+- **Developer tools:** Git, GitLab
+
+---
+
+## Certifications
+
+- Anthropic - Introduction to Model Context Protocol
+- Anthropic - AI Fluency: Framework & Foundations
+- DeepLearning.AI - Supervised Machine Learning: Regression & Classification
+- IBM - Python for Data Science, AI & Development
+- Harvard - CS50's Web Programming with Python and JavaScript
+
+---
+
+## Let's Connect
+
+I'm interested in software engineering opportunities involving full-stack systems, cloud infrastructure, data platforms, and applied AI.
+
+**Email:** [naveenaman64@gmail.com](mailto:naveenaman64@gmail.com) **LinkedIn:** [iamnaveenkumar64](https://linkedin.com/in/iamnaveenkumar64) **Portfolio:** [naveenkumar64.netlify.app](https://naveenkumar64.netlify.app/)
